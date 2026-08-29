@@ -32,10 +32,8 @@ understand practical mitigations.
 
 ### [First Fold](https://github.com/itworksinprod/first-fold)
 
-A focused morning technology briefing that organizes important developments
-across AI, cybersecurity, and technology. The project is designed to reduce
-noise, prioritize consequential stories, and make current developments easier
-to act on.
+A daily newspaper-style briefing that helps you stay current on AI,
+cybersecurity, and technology news.
 
 ### [Nightglass](https://github.com/itworksinprod/nightglass)
 
